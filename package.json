@@ -1,0 +1,17 @@
+{
+  "name": "projeto_estatistica_de_jogadores",
+  "version": "1.0.0",
+  "description": "API para guardar informações de estatisticas da liga",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./SRC/index.js"
+  },
+  "author": "Matheus Vieira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
