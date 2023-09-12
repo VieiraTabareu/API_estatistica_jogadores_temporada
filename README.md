@@ -19,7 +19,7 @@ A API de gerenciamento de dados é uma RESTfull API de controle de dados e estat
 - Nodemon `(npm install -D nodemon)`;
   - A execução do codigo ficará por meio do comando <b>`npm run dev`</b>
   - Para isso é necessário ir no arquivo "PACKAGE.JSON" e editar a linha "scripts" para `"dev": "nodemon + caminho do seu arquivo index"`;
-  !(https://imagizer.imageshack.com/img924/962/K1BF4k.jpg).
+  ![](https://imagizer.imageshack.com/img924/962/K1BF4k.jpg).
 
 :globe_with_meridians: Lembrando que por padrão neste codigo o servidor de teste está configurada na porta 4000
 
